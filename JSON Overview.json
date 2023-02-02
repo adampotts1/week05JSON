@@ -1,0 +1,28 @@
+{
+    "familyName" : "Smith" ,
+    "moveInDate" : "2016" ,
+    "numberPeople" : "4" ,
+    "visited" : "Yes" ,
+    "familyMembers" : [
+        {
+            "name" : "Janice" ,
+            "gender" : "Female" ,
+            "dateOfBirth" : "12/15/84"
+        },
+        {
+            "name" : "Dan" ,
+            "gender" : "Male" ,
+            "dateOfBirth" : "4/1/82"
+        },
+        {
+            "name" : "Jane" ,
+            "gender" : "Female" ,
+            "dateOfBirth" : "11/18/2002"
+        },
+        {
+            "name" : "Mike" ,
+            "gender" : "Male" ,
+            "dateOfBirth" : "5/5/2005"
+        }
+    ]
+}
